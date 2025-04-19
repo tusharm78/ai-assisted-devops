@@ -8,6 +8,8 @@ Include:
 - Setting working directory
 - Adding source code
 - Running the application
+- Multi stage distroless docker image
+- Expose port
 """
 
 def generate_dockerfile(language):
